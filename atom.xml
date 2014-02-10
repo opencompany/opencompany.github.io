@@ -4,11 +4,7 @@
     <title type="text" xml:lang="en"></title>
     <link type="application/atom+xml" href="http://www.opencompany.org/atom.xml" rel="self"/>
     <link type="text" href="http://www.opencompany.org/" rel="alternate"/>
-<<<<<<< HEAD
-    <updated>2014-01-29T22:37:55+01:00</updated>
-=======
-    <updated>2014-02-03T22:55:52-05:00</updated>
->>>>>>> Publish latest
+    <updated>2014-02-10T13:01:02-05:00</updated>
     <id>http://www.opencompany.org/</id>
     <author>
         <name>The Open Company Initiative</name>
@@ -19,7 +15,7 @@
     <entry>
         <title>How your company can benefit from being open: Lessons from Balanced</title>
         <link href="http://www.opencompany.org//2014/01/27/how-your-company-can-benefit-from-being-open-lessons-from-balanced.html"/>
-        <updated>2014-01-27T00:00:00+01:00</updated>
+        <updated>2014-01-27T00:00:00-05:00</updated>
         <id>http://www.opencompany.org//2014/01/27/how-your-company-can-benefit-from-being-open-lessons-from-balanced</id>
         <content type="html">&lt;p&gt;Matin Tamizi wants to shift the culture of how companies do things. “It’s time
 they open up and share more,” Tamizi says. “As a society in general we’ll end
@@ -123,7 +119,7 @@ The editor was &lt;a href=&quot;https://twitter.com/bronwen&quot;&gt;@whit537&lt
     <entry>
         <title>Gittip founder starts Open Company Initiative</title>
         <link href="http://www.opencompany.org//2014/01/13/gittip-founder-starts-open-company-initiative.html"/>
-        <updated>2014-01-13T00:00:00+01:00</updated>
+        <updated>2014-01-13T00:00:00-05:00</updated>
         <id>http://www.opencompany.org//2014/01/13/gittip-founder-starts-open-company-initiative</id>
         <content type="html">&lt;blockquote&gt;&lt;p&gt;The creator of an open payments system that allows users to give small weekly
 cash gifts to help other users pay their bills is now extending the concept
